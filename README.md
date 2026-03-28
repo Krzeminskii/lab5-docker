@@ -1,5 +1,5 @@
 # Sprawozdanie laboratorium 5 PAwChO 
-
+## Jan Krzemiński gr. 6.4
 ## 1. Treść utworzonego pliku Dockerfile
 Poniżej znajduje się kod wykorzystanego pliku `Dockerfile`, który realizuje wieloetapowe budowanie w oparciu o obraz `scratch` (z wstrzykniętym systemem plików Alpine) oraz `nginx`:
 
